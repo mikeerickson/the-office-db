@@ -1,4 +1,4 @@
-# <project_name>
+# the-office-db
 
 ## Description
 
@@ -10,12 +10,12 @@
 
 ### License
 
-Copyright &copy; 2019 Mike Erickson
+Copyright &copy; 2020 Mike Erickson
 Released under the MIT license
 
 ## Credits
 
-<project_name> written by Mike Erickson
+the-office-db written by Mike Erickson
 
 E-Mail: [codedungeon@gmail.com](mailto:codedungeon@gmail.com)
 
