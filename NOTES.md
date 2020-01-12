@@ -12,7 +12,7 @@ Nellie Bertram (Catherine Tate)
 Gabe Lewis (Zach Woods)
 Clark Green
 Pete Miller
-Erin Hannon (Ellie Kemper) (sp)
+Erin Hannon (Ellie Kemper)
 Roy Anderson (David Denman)
 Kelly Kapoor (Mindy Kaling)
 Meredith Palmer (Kate Flannery)

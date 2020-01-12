@@ -22,9 +22,8 @@ class CreateEmployeesTable extends Migration
             $table->timestamp('created_at')->useCurrent();
             $table->timestamp('updated_at')->useCurrent();
 
-            // TODO:  create relational link here for author table
-            // TODO:  create relational link here for quote table
-
+            $table->foreign('author_id')->references('id')->on('authors');
+            $table->foreign('quote_id')->references('id')->on('quotes');
         });
     }
 }
